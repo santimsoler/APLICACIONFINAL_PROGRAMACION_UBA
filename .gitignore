@@ -1,0 +1,14 @@
+# Bases de datos originales (pesadas, no se suben al repo)
+*.sav
+*.dta
+*.zip
+*.gz
+*.rdata
+*.RData
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Entornos
+.venv/
+__pycache__/
