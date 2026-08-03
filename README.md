@@ -1,4 +1,7 @@
 # APLICACIONFINAL_PROGRAMACION_UBA
+# Grupo 2
+# Trabajo Práctico Taller de Programación de la Maestría en Economía Aplicada UBA.
+# Autores: Andrea Chasi, Santiago Soler, Pablo Ortiz
 
 # Determinantes de la Pobreza Multidimensional en Chile (CASEN 2024): Un Enfoque de Machine Learning y Econometría
 
